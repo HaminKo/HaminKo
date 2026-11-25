@@ -3,6 +3,7 @@
 I'm based in Boston and build personal projects in my spare time, mostly tools, games and mods.
 
 **Releases:**
+- [Tray Anywhere 0.1](https://github.com/HaminKo/tray-anywhere): a Windows 11 app that shows the tray icons from your main monitor's taskbar in a popup on your other monitors, where clicking one clicks the real icon. [Download it here](https://github.com/HaminKo/tray-anywhere/releases/latest).
 - [Video Downloader 0.1](https://github.com/HaminKo/video-downloader): a Windows app on top of yt-dlp that saves a video as MP4, or just its audio as MP3, from a link, with a queue and a button in Chrome. [Download it here](https://github.com/HaminKo/video-downloader/releases/latest).
 - [VLC Autofolder 0.1](https://github.com/HaminKo/vlc-autofolder): a VLC add-on for Windows that adds the rest of a video's folder to the playlist when you open it, so Next and Previous just work. [Download it here](https://github.com/HaminKo/vlc-autofolder/releases/latest).
 - [Session Inbox 0.2](https://github.com/HaminKo/session-inbox): a VS Code extension for Windows that keeps a "waiting on you" list of your Claude Code sessions across all VS Code windows. [Download it here](https://github.com/HaminKo/session-inbox/releases/latest).
